@@ -142,8 +142,7 @@ JOIN departments d ON d.deptid = e.deptid
 GROUP BY d.deptid;
 ```
 
-📸 *Screenshot: Department Salary Stats*  
-`![Dept Salary Screenshot](screenshots/dept_salary.png)`
+
 
 ---
 
