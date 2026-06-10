@@ -122,7 +122,7 @@ CREATE VIEW employee_basic_view AS
 SELECT empname, empid, salary, deptid
 FROM employees;
 ```
-
+- Screenshot 2026-06-08 185249
 
 
 ---
