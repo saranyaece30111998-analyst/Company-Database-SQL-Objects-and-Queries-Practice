@@ -90,6 +90,7 @@ WHERE e.Salary > ANY (
 );
 ```
 - 
+- <img width="835" height="502" alt="Screenshot 2026-06-10 232644" src="https://github.com/user-attachments/assets/fb233343-4773-4991-a17d-19f60f6de6f9" />
 
 
 
