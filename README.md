@@ -108,6 +108,7 @@ WHERE e.Salary = (
 );
 ```
 
+- <img width="1006" height="597" alt="Screenshot 2026-06-08 184619" src="https://github.com/user-attachments/assets/b1dbe233-a5bf-45c4-9c8b-b260d6f04e54" />
 
 
 ---
