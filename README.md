@@ -29,6 +29,7 @@ SELECT empname, empid, salary,
        createbonus(salary) AS annual_bonus
 FROM employees;
 ``
+- <img width="662" height="751" alt="Screenshot 2026-06-08 180858" src="https://github.com/user-attachments/assets/842d4294-cda4-482f-aec8-81ca9a3a09c3" />
 
 ---
 
