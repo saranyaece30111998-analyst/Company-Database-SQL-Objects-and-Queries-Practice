@@ -86,8 +86,7 @@ WHERE e.Salary > ANY (
 );
 ```
 
-📸 *Screenshot: Salary vs HR*  
-`![HR Comparison Screenshot](screenshots/hr_comparison.png)`
+
 
 ---
 
