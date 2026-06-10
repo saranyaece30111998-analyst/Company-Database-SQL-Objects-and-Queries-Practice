@@ -75,6 +75,7 @@ END;
 ```sql
 CALL UpdateSalaryByPerformance();
 ```
+- <img width="528" height="427" alt="Screenshot 2026-06-08 184048" src="https://github.com/user-attachments/assets/30cff632-9f87-49a6-b521-bd1ffee3f63a" />
 
 
 
