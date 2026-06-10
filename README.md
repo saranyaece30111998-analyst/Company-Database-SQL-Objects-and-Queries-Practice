@@ -39,8 +39,7 @@ FROM employees
 WHERE salary > (SELECT AVG(salary) FROM employees);
 ```
 
-📸 *Screenshot: Above Average Salary*  
-`![Above Avg Screenshot](screenshots/above_avg.png)`
+
 
 ---
 
