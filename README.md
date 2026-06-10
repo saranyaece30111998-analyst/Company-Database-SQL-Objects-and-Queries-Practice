@@ -122,7 +122,8 @@ CREATE VIEW employee_basic_view AS
 SELECT empname, empid, salary, deptid
 FROM employees;
 ```
-- Screenshot 2026-06-08 185249
+ - <img width="873" height="601" alt="Screenshot 2026-06-08 185249" src="https://github.com/user-attachments/assets/93f50cae-2fbb-4386-8047-510ae1745319" />
+
 
 
 ---
