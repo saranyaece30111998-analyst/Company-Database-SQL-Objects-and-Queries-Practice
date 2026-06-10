@@ -151,6 +151,7 @@ FROM employees e
 JOIN departments d ON d.deptid = e.deptid
 GROUP BY d.deptid;
 ```
+-<img width="1246" height="566" alt="Screenshot 2026-06-08 191050" src="https://github.com/user-attachments/assets/781b6b18-b505-4d42-9a16-d53ed123221a" />
 
 
 
