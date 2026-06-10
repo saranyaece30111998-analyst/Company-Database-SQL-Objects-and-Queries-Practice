@@ -73,8 +73,7 @@ END;
 CALL UpdateSalaryByPerformance();
 ```
 
-📸 *Screenshot: Updated Salaries*  
-`![Procedure Screenshot](screenshots/procedure.png)`
+
 
 ---
 
