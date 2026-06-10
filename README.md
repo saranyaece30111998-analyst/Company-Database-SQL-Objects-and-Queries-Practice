@@ -55,6 +55,7 @@ WHERE e.DeptID IN (
     WHERE d.Location IN ('Hyderabad', 'Pune')
 );
 ```
+- <img width="837" height="276" alt="Screenshot 2026-06-08 182856" src="https://github.com/user-attachments/assets/c573bff9-b958-4a6e-9b32-94227fd77b91" />
 
 
 
