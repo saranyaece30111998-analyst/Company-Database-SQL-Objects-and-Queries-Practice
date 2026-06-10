@@ -136,6 +136,7 @@ FROM employees e
 JOIN departments d ON d.deptid = e.deptid;
 ```
 
+- <img width="822" height="620" alt="Screenshot 2026-06-08 190009" src="https://github.com/user-attachments/assets/17924d98-0d6a-4171-8ec7-2663d779eabd" />
 
 
 ---
