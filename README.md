@@ -165,6 +165,3 @@ This project highlights:
 
 ---
 
-👉 Replace each `screenshots/...png` placeholder with your actual screenshot paths.  
-
-Would you like me to also **add a professional “Project Structure” section** (like `sql/queries.sql`, `screenshots/`, `README.md`) so your repo looks neatly organized?
