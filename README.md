@@ -28,10 +28,7 @@ END;
 SELECT empname, empid, salary,
        createbonus(salary) AS annual_bonus
 FROM employees;
-```
-
-📸 *Screenshot: Function Output*  
-`![UDF Screenshot](screenshots/createbonus.png)`
+``
 
 ---
 
