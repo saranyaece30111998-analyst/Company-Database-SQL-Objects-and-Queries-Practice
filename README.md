@@ -115,8 +115,7 @@ SELECT empname, empid, salary, deptid
 FROM employees;
 ```
 
-📸 *Screenshot: Basic View*  
-`![Basic View Screenshot](screenshots/basic_view.png)`
+
 
 ---
 
