@@ -54,8 +54,7 @@ WHERE e.DeptID IN (
 );
 ```
 
-📸 *Screenshot: Hyderabad/Pune Employees*  
-`![Location Screenshot](screenshots/location.png)`
+
 
 ---
 
