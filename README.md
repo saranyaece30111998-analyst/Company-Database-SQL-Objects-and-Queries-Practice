@@ -39,6 +39,7 @@ SELECT empname, empid, salary
 FROM employees
 WHERE salary > (SELECT AVG(salary) FROM employees);
 ```
+- <img width="943" height="475" alt="Screenshot 2026-06-08 181442" src="https://github.com/user-attachments/assets/f523703c-569c-4022-b1f4-363563ded6df" />
 
 
 
