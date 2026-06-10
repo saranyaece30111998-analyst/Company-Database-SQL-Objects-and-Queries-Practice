@@ -127,8 +127,7 @@ FROM employees e
 JOIN departments d ON d.deptid = e.deptid;
 ```
 
-📸 *Screenshot: Department View*  
-`![Department View Screenshot](screenshots/department_view.png)`
+
 
 ---
 
