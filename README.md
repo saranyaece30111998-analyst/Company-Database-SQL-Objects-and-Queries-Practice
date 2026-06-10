@@ -102,8 +102,7 @@ WHERE e.Salary = (
 );
 ```
 
-📸 *Screenshot: Highest Salary per Department*  
-`![Highest Salary Screenshot](screenshots/highest_salary.png)`
+
 
 ---
 
