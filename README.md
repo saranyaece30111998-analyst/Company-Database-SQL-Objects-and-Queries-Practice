@@ -89,6 +89,7 @@ WHERE e.Salary > ANY (
     SELECT Salary FROM Employees WHERE DeptID = 1
 );
 ```
+- <img width="1006" height="597" alt="Screenshot 2026-06-08 184619" src="https://github.com/user-attachments/assets/f68c88b0-b366-45f0-88b5-64f005497f2b" />
 
 
 
